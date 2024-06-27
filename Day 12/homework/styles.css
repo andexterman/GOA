@@ -3,6 +3,9 @@ h2{
     /* witeli bozuri feria */
     text-align: center;
 }
+h5{
+    text-align: center;
+}
 .container {
     display: flex;
     justify-content: center; /* Center items horizontally */

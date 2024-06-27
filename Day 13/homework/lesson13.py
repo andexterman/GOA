@@ -1,0 +1,12 @@
+x = 158
+y = 199
+print(x<11 or y<400)
+print(x<146 and y<231)
+print(x>188 or y>159)
+print(x<124 and y<395)
+print(x>167 or y<1300)
+print(x>0 and y<0)
+print(x>0 and y>0)
+print(x>110 or y<130)
+print(x>140 and y<110)
+print(x<115 or y>185)

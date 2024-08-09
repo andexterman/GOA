@@ -1,0 +1,30 @@
+h2{
+    text-align: center;
+    color: aqua;
+}
+
+body{
+    background-color: black;
+}
+p{
+    text-align: center;
+    color: aliceblue;
+}
+.goapfp{
+    margin-left: 350px;
+}
+h4{
+    text-align: center;
+}
+.btn1{
+    background-color: blue;
+    color: white;
+    border: none;
+    height: 20px;
+    width: 280px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.btn1{
+    margin-left: 540px;
+}

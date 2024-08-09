@@ -1,0 +1,51 @@
+p{
+    text-align: right
+}
+.dimpitauri{
+        display: flex;
+        justify-content: right;
+        align-items: center;
+}
+.apartament{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.body22{
+    background-color: black;
+}
+.login{
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+.register{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+h2{
+    text-align: center;
+    color: aqua;
+}
+h3{
+    text-align: center;
+    color: aqua;
+}
+h4{
+    text-align: center;
+    color: aqua;
+}
+.img22{
+    margin-left: 250px;
+}
+li{
+    color: aqua;
+}
